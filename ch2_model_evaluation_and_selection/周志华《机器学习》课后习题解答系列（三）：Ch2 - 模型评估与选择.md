@@ -117,6 +117,6 @@ ROC曲线的点对应了一对（TPR,FPR），即一对（FNR,FPR），由此可
 
 可直接参考：[卡方检验 - 百度百科](http://baike.baidu.com/link?url=G2Md2m54oqVpFaSGDFjZJ4myZ9EHw8m2HSUx6wgpgE1MnePNrATY-GPjrQD62aRhu4StvgOmaM0xe8alOuyV3uBu3PLJDq2aeo29nz_P4OBE4d4YTLlIkQ3eelB5ByiP)
 
-----
+----##
 
 
